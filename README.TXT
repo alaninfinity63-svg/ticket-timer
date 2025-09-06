@@ -33,5 +33,8 @@ Private server string
 18 student class
 19 2 parameters (int, string tittle!)
 20 yes in the students field
-21-private string petsname
-22-
+21-name=petsName;
+22- define the name the name of the new constructor and add string month name, year and date
+23- the difference between the head of the 2 heads is that one deals with initial price and the tail uses what is left over
+
+
